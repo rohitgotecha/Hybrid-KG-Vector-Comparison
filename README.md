@@ -244,7 +244,7 @@ Config 5: Returns verbose list (4.07/5) [GOOD]
 question = "Find available 3BHK under 1.5 crore in Wing B only"
 answer = configurable_hybrid_recommendation(question, "vector_project_kg_residency")
 
-# Returns: 5 available 3BHK flats from Wing B under ₹13.75 lakhs
+# Returns: 5 available 3BHK flats from Wing B under ₹1.375 crore
 ```
 
 ### Example 2: Project Query
