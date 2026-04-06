@@ -111,7 +111,7 @@ Answer   - Project response
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hybrid-kg-vector-comparison.git
+   git clone https://github.com/rohitgotecha/hybrid-kg-vector-comparison.git
    cd hybrid-kg-vector-comparison
    ```
 
