@@ -182,6 +182,7 @@ Config 5: Returns verbose list (4.07/5) [GOOD]
 - **Floor Diversity**: Different floors returned
 - **Facing Diversity**: Different directions (E/W/N/S)
 - **View Diversity**: Different view types
+- **Manual Accuracy / Quality Score**: Manual rating (1-5 scale)
 - **Constraint Compliance**: % of flats matching query filters
 - **Response Time**: Seconds to generate answer
 
