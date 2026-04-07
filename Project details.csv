@@ -1,0 +1,157 @@
+QID,Question,Answer
+1,What is the name of the project?,The project name is Jalaram Residency.
+2,What is the Project ID?,The Project ID is 1021701317.
+3,Where is Jalaram Residency located?,Jalaram Residency is located on the highway touch in Ahmedabad.
+4,When is possession scheduled?,Possession is scheduled in the year 2027.
+5,How many wings does the project have?,The project has 9 wings (A to I).
+6,How many total flats are there in the project?,There are 504 flats in total across all wings.
+7,How many floors are there per wing?,Each wing has 14 floors.
+8,How many flats are there on each floor?,Each floor has 4 flats.
+9,Which wings contain 4BHK apartments?,Wings D and I contain 4BHK apartments; the other wings are 3BHK.
+10,What are the carpet areas for 3BHK and 4BHK units?,3BHK units have a carpet area of 2250 sq.ft. and 4BHK units have a carpet area of 3600 sq.ft.
+11,What amenities are available at Jalaram Residency?,"The society offers a Gym, Children Park, Swimming Pool, Club House, and Theater."
+12,Is there a swimming pool in the project?,"Yes, there is a swimming pool available for residents."
+13,Is there a gym in the society?,"Yes, the society includes a gymnasium for residents."
+14,Does the project have a children's play area?,"Yes, there is a children's park within the premises."
+15,Is there a clubhouse available?,"Yes, the project has a clubhouse for social and recreational activities."
+16,Is there a theater in the society?,"Yes, the society includes a dedicated theater for residents."
+17,How many parking basements are provided?,The society provides two basement parking levels (Basement 1 and Basement 2).
+18,Is visitor parking available?,"Yes, visitor parking is available on the ground floor."
+19,Are elevators provided?,"Yes, automatic elevators are provided with a speed of 1 meter/second."
+20,Are the amenities accessible to all residents?,"Yes, amenities such as the gym, pool, clubhouse, theater, and children's park are for residents' use."
+21,Is parking allocated to residents?,"Yes, basement parking is allocated to residents. Visitor parking is separate on the ground floor."
+22,Are there any common area maintenance charges?,"Yes, maintenance charges apply for common areas; exact charges depend on the management and will be shared at booking."
+23,Is there a generator or backup power for elevators and common areas?,Backup power provisions are typically provided for common areas and essential services; confirm details with the sales team for specifics.
+24,Does the project provide CCTV and security?,The project plans typically include security features like CCTV surveillance and security personnel; confirm final scope at booking.
+25,Is the swimming pool indoor or outdoor?,Outdoor
+26,What type of flooring is used in the apartments?,"Vitrified Tiles in Bedrooms, Drawing and Dining Room"
+27,What type of windows are installed?,Sliding Aluminum Section
+28,What is the main door specification?,Wooden Flush Door with Polished Veneer
+29,What type of internal doors are provided?,Flush Doors with Oil Paint
+30,What are the kitchen specifications?,Granite Platform with Ceramic Tile Dado and Stainless Steel Sink
+31,What is the interior plaster finish?,Single Coat Mala
+32,What is the exterior plaster finish?,Double Coat
+33,What is the inside finish of the walls?,Putty Finish
+34,What is the outside finish of the building?,Acrylic Paint
+35,What type of sanitary ware is provided?,Wall Hung Water Closet and Basin
+36,What are toilet fittings like?,Chrome Plated Fittings
+37,What is the toilet flooring/dado specification?,Ceramic Tiles on Floor and Dado
+38,What electrical switches and wires are used?,"ISI Modular Switches, ISI Wires, ISI MCB/ELCB"
+39,Are MCB and ELCB provided?,"Yes, ISI make MCB/ELCB are provided as part of electrical safety measures."
+40,Are kitchen platforms granite?,"Yes, kitchens are provided with granite platforms and ceramic tile dado."
+41,Is a vitrified tile used in wash yards?,"Yes, vitrified tiles are used in wash yards as per the specifications in the dataset."
+42,What is the Size for a 3BHK unit?,The synthetic price range for a 3BHK (carpet 2250 Sq.ft.)
+43,What is the size for a 4BHK unit?,The synthetic price range for a 4BHK (carpet 3600 Sq.ft.)
+44,How can I check flat availability?,You can check flat availability by contacting the sales team or checking the Flat_Details sheet in the dataset which lists status as Available/Booked/Hold.
+45,What does 'Hold' status mean?,Hold means the flat is temporarily reserved and not available for booking until the hold is released.
+46,Can I choose the facing of the apartment?,Facing preferences (East/Wes) can be requested during booking; allocation depends on availability.
+47,Are there sample flat interiors or model apartments?,In a real project you may be shown a model flat; for synthetic/demo purposes you can create a model layout based on the specifications.
+48,Are possession and construction timelines guaranteed?,Possession timelines are projected; final delivery depends on construction progress and regulatory approvals. The dataset lists possession as 2027.
+49,How many parking slots are provided per flat?,Parking allocation varies; typically larger units get more parking. Basement parking is available for residents. Confirm exact allocation with the sales team.
+50,Is there covered parking?,"Yes, basement parking offers covered parking slots for residents."
+51,What documents are required for booking a flat?,"Typical documents required for booking include:
+1. Proof of identity (Aadhaar/PAN)
+2. Address proof
+3. Proof of income / salary slips
+4. Passport size photographs
+5. Initial booking amount as per the payment plan
+Please confirm the final list with the sales team or legal department."
+52,What is the refund policy on booking cancellation?,"Refund policy varies by developer. For synthetic/demo dataset, assume a standard cancellation slab; confirm with sales/legal for exact terms."
+53,Is the property RERA registered?,Check with the developer or sales team for RERA registration details and RERA number. (Not included in the synthetic dataset).
+54,Will I get a possession certificate and occupancy certificate?,The developer will provide possession/occupancy certificates per statutory requirements upon project completion and approvals.
+55,Can NRIs book flats?,NRIs can typically book flats subject to applicable laws and documentation requirements. Consult the sales team for details.
+56,Is home loan facility available for the flats?,"Yes, home loan facilities are generally available through partner banks; buyers should confirm loan eligibility and partners with the sales team."
+57,Can I pay in instalments?,Developers usually offer staged payment plans; exact payment schedule will be discussed at booking.
+58,Are stamp duty and registration charges included in the price?,"No, stamp duty and registration charges are usually extra and borne by the buyer. Confirm exact charges with the sales/legal team."
+59,Who handles property maintenance after possession?,A society management or appointed maintenance agency will handle common area upkeep; exact arrangements will be listed in the buyer agreement.
+60,Is there a sinking fund or security deposit for amenities?,Developers often collect a one-time corpus fund or deposits for amenities; check the sale agreement for exact terms.
+61,How far is the nearest hospital from Jalaram Residency?,The nearest hospital is approximately 1 km.
+62,Is there a temple nearby?,"Yes, a temple is approximately 500 meters from the project."
+63,How far is the metro station?,The nearest metro station is about 1.5 km away.
+64,How far is the airport from the project?,The airport is approximately 10 km from the project.
+65,How far is the nearest railway station?,The railway station is about 7 km away.
+66,How close is the bus stop?,The nearest bus stop is around 200 meters from the project.
+67,Are schools nearby?,"Yes, schools are located approximately 2 km from the project."
+68,Is there a shopping mall nearby?,"Yes, a shopping mall is located around 2 km from the project."
+69,Where can residents buy daily groceries?,The grocery and vegetables market is approximately 500 meters from the project.
+70,How is the connectivity to major transit points?,"The project offers excellent connectivity: airport (~10 km), railway (~7 km), metro (~1.5 km) and local bus stops (~200 m)."
+71,How do I book a flat?,"To book, contact the sales team, choose a unit, and complete the booking form with the required documents and initial payment."
+72,Is the project suitable for senior citizens?,"Yes, elevator access and ground-level amenities make it convenient for senior residents."
+73,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+74,Are there landscaped gardens in the project?,"Yes, the project includes landscaped areas and a children's park for outdoor recreation."
+75,Is two-wheeler parking separate?,Two-wheeler parking is usually provided in designated areas; confirm exact layout with the sales team.
+76,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+77,Are towels provided at the swimming pool?,Towel services are not usually included; residents may use their own towels or club facilities if provided.
+78,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+79,How do I verify RERA details?,Verify RERA registration on the official RERA portal using the RERA number provided by the developer.
+80,How do I book a flat?,"To book, contact the sales team, choose a unit, and complete the booking form with the required documents and initial payment."
+81,Can I reserve a flat online?,Online reservation may be available; contact the sales team for current online booking options.
+82,Can I reserve a flat online?,Online reservation may be available; contact the sales team for current online booking options.
+83,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+84,What are the typical utility connections available?,"Complete utility connections (electricity, water, sewer) are provided; individual meterization may apply."
+85,Are there landscaped gardens in the project?,"Yes, the project includes landscaped areas and a children's park for outdoor recreation."
+86,Is there any mall or entertainment hub close to the project?,"Yes, a shopping mall with retail and entertainment options is about 2 km away."
+87,Do prices include GST?,GST applicability depends on the unit and developer's tax structure; consult the sales team or accountant.
+88,Can I customize my apartment interiors?,Interior customization is often allowed within structural guidelines; confirm with the developer for permissible changes.
+89,Which are the nearest schools?,Reputed schools are located within approximately 2 km. Exact school names can be provided by the sales team.
+90,Are towels provided at the swimming pool?,Towel services are not usually included; residents may use their own towels or club facilities if provided.
+91,Are wardrobes provided in bedrooms?,Built-in wardrobes are not listed in the specifications; buyers can request finish packages or add-on carpentry.
+92,Are wardrobes provided in bedrooms?,Built-in wardrobes are not listed in the specifications; buyers can request finish packages or add-on carpentry.
+93,Is there a token amount to start the process?,Developers typically request a token or booking amount; the exact sum is specified in the payment plan.
+94,Are prices negotiable?,Price negotiation depends on availability and developer policies; special offers may be available at times.
+95,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+96,Are there landscaped gardens in the project?,"Yes, the project includes landscaped areas and a children's park for outdoor recreation."
+97,Can non-residents use the clubhouse?,Typically clubhouses are for residents and their guests only; developer may allow members by special permission.
+98,Is Jalaram Residency suitable for families?,"Yes, the project is designed with family living in mind, offering spacious 3BHK and 4BHK units and family-friendly amenities."
+99,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+100,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+101,Is the project suitable for senior citizens?,"Yes, elevator access and ground-level amenities make it convenient for senior residents."
+102,Is two-wheeler parking separate?,Two-wheeler parking is usually provided in designated areas; confirm exact layout with the sales team.
+103,Are there landscaped gardens in the project?,"Yes, the project includes landscaped areas and a children's park for outdoor recreation."
+104,Do you offer a sample sale agreement?,Developers usually provide a draft sale agreement; review it with your legal advisor before signing.
+105,Are power backup and water treatment facilities available?,Common-area power backup and water treatment are typically included; confirm exact specifications with management.
+106,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+107,Do prices include GST?,GST applicability depends on the unit and developer's tax structure; consult the sales team or accountant.
+108,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+109,Can I customize my apartment interiors?,Interior customization is often allowed within structural guidelines; confirm with the developer for permissible changes.
+110,Are prices negotiable?,Price negotiation depends on availability and developer policies; special offers may be available at times.
+111,Is there an early-bird discount?,Developers sometimes offer early-bird discounts during launch phases; check current offers with sales.
+112,Are prices negotiable?,Price negotiation depends on availability and developer policies; special offers may be available at times.
+113,Are power backup and water treatment facilities available?,Common-area power backup and water treatment are typically included; confirm exact specifications with management.
+114,How do I get my parking allocation?,Parking allocation is provided at the time of booking/possession and will be detailed in the agreement.
+115,Is two-wheeler parking separate?,Two-wheeler parking is usually provided in designated areas; confirm exact layout with the sales team.
+116,Is two-wheeler parking separate?,Two-wheeler parking is usually provided in designated areas; confirm exact layout with the sales team.
+117,Is there a gated community setup?,"Yes, the project can be described as a gated community with controlled entry and security features."
+118,Which are the nearest schools?,Reputed schools are located within approximately 2 km. Exact school names can be provided by the sales team.
+119,Is there an early-bird discount?,Developers sometimes offer early-bird discounts during launch phases; check current offers with sales.
+120,Do you offer a sample sale agreement?,Developers usually provide a draft sale agreement; review it with your legal advisor before signing.
+121,Is there a token amount to start the process?,Developers typically request a token or booking amount; the exact sum is specified in the payment plan.
+122,Is there any mall or entertainment hub close to the project?,"Yes, a shopping mall with retail and entertainment options is about 2 km away."
+123,Which are the nearest schools?,Reputed schools are located within approximately 2 km. Exact school names can be provided by the sales team.
+124,How do I get my parking allocation?,Parking allocation is provided at the time of booking/possession and will be detailed in the agreement.
+125,Is there a gated community setup?,"Yes, the project can be described as a gated community with controlled entry and security features."
+126,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+127,Can I reserve a flat online?,Online reservation may be available; contact the sales team for current online booking options.
+128,Are towels provided at the swimming pool?,Towel services are not usually included; residents may use their own towels or club facilities if provided.
+129,Do you offer a sample sale agreement?,Developers usually provide a draft sale agreement; review it with your legal advisor before signing.
+130,Do you offer a sample sale agreement?,Developers usually provide a draft sale agreement; review it with your legal advisor before signing.
+131,Is two-wheeler parking separate?,Two-wheeler parking is usually provided in designated areas; confirm exact layout with the sales team.
+132,Is there any mall or entertainment hub close to the project?,"Yes, a shopping mall with retail and entertainment options is about 2 km away."
+133,What will be the monthly maintenance charges?,Maintenance charges depend on the built-up area and services; an estimate will be provided by the management at handover.
+134,Is the gym open 24/7?,Timings depend on management decisions; often gyms have defined hours for residents.
+135,How do I verify RERA details?,Verify RERA registration on the official RERA portal using the RERA number provided by the developer.
+136,Are there landscaped gardens in the project?,"Yes, the project includes landscaped areas and a children's park for outdoor recreation."
+137,How do I get my parking allocation?,Parking allocation is provided at the time of booking/possession and will be detailed in the agreement.
+138,Are prices negotiable?,Price negotiation depends on availability and developer policies; special offers may be available at times.
+139,Are power backup and water treatment facilities available?,Common-area power backup and water treatment are typically included; confirm exact specifications with management.
+140,Who provides the facility management?,A society-appointed management agency or the residents' association typically handles day-to-day facility management.
+141,Is the project suitable for senior citizens?,"Yes, elevator access and ground-level amenities make it convenient for senior residents."
+142,Do prices include GST?,GST applicability depends on the unit and developer's tax structure; consult the sales team or accountant.
+143,Is there any mall or entertainment hub close to the project?,"Yes, a shopping mall with retail and entertainment options is about 2 km away."
+144,Are wardrobes provided in bedrooms?,Built-in wardrobes are not listed in the specifications; buyers can request finish packages or add-on carpentry.
+145,Is there an early-bird discount?,Developers sometimes offer early-bird discounts during launch phases; check current offers with sales.
+146,Are air conditioners pre-installed?,ACs are usually not pre-installed; provisions and electrical points are provided as per apartment specifications.
+147,Is there any mall or entertainment hub close to the project?,"Yes, a shopping mall with retail and entertainment options is about 2 km away."
+148,Can I reserve a flat online?,Online reservation may be available; contact the sales team for current online booking options.
+149,Who handles legal title checks?,Title checks are typically done by the buyer's legal counsel; developers provide necessary land documents to verify title.
+150,Do you offer a sample sale agreement?,Developers usually provide a draft sale agreement; review it with your legal advisor before signing.
